@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quest2", "Quest2\Quest2.csproj", "{D7874387-069E-491A-9915-CF3F5C5AAD5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTest", "XUnitTest\XUnitTest.csproj", "{A0536B4B-C002-4FAB-A720-ABB2F8C6946B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7874387-069E-491A-9915-CF3F5C5AAD5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7874387-069E-491A-9915-CF3F5C5AAD5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7874387-069E-491A-9915-CF3F5C5AAD5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7874387-069E-491A-9915-CF3F5C5AAD5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0536B4B-C002-4FAB-A720-ABB2F8C6946B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0536B4B-C002-4FAB-A720-ABB2F8C6946B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0536B4B-C002-4FAB-A720-ABB2F8C6946B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0536B4B-C002-4FAB-A720-ABB2F8C6946B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80F8D786-25F4-4ADD-9D10-658744DB367A}
+	EndGlobalSection
+EndGlobal

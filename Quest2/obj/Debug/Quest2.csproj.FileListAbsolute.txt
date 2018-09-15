@@ -1,0 +1,7 @@
+C:\Users\trago\Desktop\Quest2\Quest2\bin\Debug\Quest2.exe.config
+C:\Users\trago\Desktop\Quest2\Quest2\bin\Debug\Quest2.exe
+C:\Users\trago\Desktop\Quest2\Quest2\bin\Debug\Quest2.pdb
+C:\Users\trago\Desktop\Quest2\Quest2\obj\Debug\Quest2.csprojAssemblyReference.cache
+C:\Users\trago\Desktop\Quest2\Quest2\obj\Debug\Quest2.csproj.CoreCompileInputs.cache
+C:\Users\trago\Desktop\Quest2\Quest2\obj\Debug\Quest2.exe
+C:\Users\trago\Desktop\Quest2\Quest2\obj\Debug\Quest2.pdb
